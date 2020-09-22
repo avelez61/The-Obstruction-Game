@@ -21,4 +21,4 @@ There were many goals in mind when I worked on this project. The first goal was 
 
 I found out about this game from [this](https://www.reddit.com/r/C_Programming/comments/hs6rj9/my_first_c_project/) post where reddit user xemeds wrote an Obstruction game using C ([here](https://github.com/xemeds/obstruction-game) is a link to their repo). This post inspired me to write my own project and I completed the project using C first but then wanted to try and use Lua and LÖVE as well to challenge myself.
 
-There are many improvements I feel I should make but my main goal was to complete the project to get as much feedback as possible first.
+There are many improvements I feel I should make but my main goal was to complete the project to get as much feedback as possible first. If you want to let me know how I can improve my work feel free to leave a comment [here](https://www.reddit.com/r/lua/comments/ixw7l6/the_obstruction_game/).
