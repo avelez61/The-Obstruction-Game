@@ -2,7 +2,7 @@
 The Obstruction Game is a 2 player pencil and paper game. The project was written in Lua using the LÖVE framework.
 
 # Installation and Execution
-This project requires the LÖVE framework which can be downloaded from [here](https://love2d.org/#download). After downloading LÖVE you can download or clone this repository. To run the game you can drag the project folder onto the LÖVE executable or shortcut. More instructions on how to run LÖVE projects for specific platforms can be found [here](https://love2d.org/wiki/Getting_Started).
+This project requires the LÖVE framework which can be downloaded from [here](https://love2d.org/#download). After downloading LÖVE you can download or clone this repository. To run the game you need to open the main project folder and then you can drag the master folder onto a LÖVE executable or shortcut. More instructions on how to run LÖVE projects for specific platforms can be found [here](https://love2d.org/wiki/Getting_Started).
 
 # How to Play the Game 
 Each player takes turns marking a cell on a grid. The size of the grid does not matter but the default size for my project is a 6x6 grid. Once a cell is marked the surrounding cells are also marked as blocked. If all cells are marked the game is over and the player who cannot make a move loses. The game can be played with 2 players or 1 player against the computer player. 
